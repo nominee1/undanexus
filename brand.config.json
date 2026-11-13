@@ -1,0 +1,20 @@
+{
+  "brand_name": "UndaNexus",
+  "brand_domain": "",
+  "colors": {
+    "primary": "#F5A623",
+    "secondary": "#110f0d",
+    "accent": "#F25C3B"
+  },
+  "social": {
+    "telegramUrl": "",
+    "whatsappUrl": "",
+    "youtubeUrl": "",
+    "tiktokUrl": "",
+    "instagramUrl": "",
+    "facebookUrl": "",
+    "websiteUrl": "",
+    "partnersUrl": "",
+    "supportEmail": ""
+  }
+}
